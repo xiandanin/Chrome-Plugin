@@ -14,7 +14,7 @@
 
 ### 3.Postman
 一款调试HTTP请求的工具，几乎可以发送所有类型的HTTP请求
-[https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=zh-CN](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop)  
+[https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop)  
 ![](Screenshots/postman.jpg)
 
 ### 4.JSON Formatter
@@ -30,7 +30,7 @@
 ### 6.crxMouse Chrome Gestures
 这是一个手势插件，可以设置多种手势进行快速操作，比如关闭标签、前进、后退  
 终于不用再去点标签关闭按钮了  
-[https://chrome.google.com/webstore/detail/crxmouse-chrome-gestures/jlgkpaicikihijadgifklkbpdajbkhjo?hl=zh-CN](https://chrome.google.com/webstore/detail/crxmouse-chrome-gestures/jlgkpaicikihijadgifklkbpdajbkhjo)  
+[https://chrome.google.com/webstore/detail/crxmouse-chrome-gestures/jlgkpaicikihijadgifklkbpdajbkhjo](https://chrome.google.com/webstore/detail/crxmouse-chrome-gestures/jlgkpaicikihijadgifklkbpdajbkhjo)  
 ![](Screenshots/crxMouse_1.gif)
 
 ### 7.Octotree
