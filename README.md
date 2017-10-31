@@ -38,6 +38,14 @@
 [https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)  
 ![](Screenshots/octotree.jpg)
 
+### 8.Switcheroo-Redirector
+替换Url，将指定的域名重定向到另外的域名
+图中是把`https://developers.android.com`重定向到了`https://developers.android.google.cn`  
+
+[https://chrome.google.com/webstore/detail/switcheroo-redirector/cnmciclhnghalnpfhhleggldniplelbg?hl=zh-CN](https://chrome.google.com/webstore/detail/switcheroo-redirector/cnmciclhnghalnpfhhleggldniplelbg?hl=zh-CN) 
+![](Screenshots/switcheroo-redirector.gif)
+
+
 
 如果你有好的插件要推荐，可以在Issues告诉我
 ###### Android交流QQ群:146262062
