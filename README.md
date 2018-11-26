@@ -44,14 +44,21 @@
 [https://chrome.google.com/webstore/detail/githubtags/jfppflnlpiekbiglfgiajddmkiglapog](https://chrome.google.com/webstore/detail/githubtags/jfppflnlpiekbiglfgiajddmkiglapog)  
 ![](Screenshots/github-tags.gif)
 
-### 8.github-repo-size
+### 8.FireShot
+可以给当前网页截图的工具，可以截可见部分也可以截整个页面
+
+[https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg)
+
+![](Screenshots/FireShot.gif)
+
+### 9.github-repo-size
 可以看到Github项目和文件的大小  
 
 [https://chrome.google.com/webstore/detail/github-repository-size/apnjnioapinblneaedefcnopcjepgkci](https://chrome.google.com/webstore/detail/github-repository-size/apnjnioapinblneaedefcnopcjepgkci)  
 
 ![](Screenshots/github-repo-size.jpg)
 
-### 9.Switcheroo-Redirector
+### 10.Switcheroo-Redirector
 替换Url，将指定的域名重定向到另外的域名  
 图中是把`https://developers.android.com`重定向到了`https://developers.android.google.cn`  
 
@@ -60,20 +67,20 @@
 ![](Screenshots/switcheroo-redirector.gif)
 
 
-### 10.WhatFont
+### 11.WhatFont
 可以显示你当前网页用的是什么字体  
 [https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)
 
 ![](Screenshots/whatFont.gif)
 
-### 11.Wappalyzer
+### 12.Wappalyzer
 可以显示出当前网页用了哪些框架技术
 [https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg)
 
 ![](Screenshots/wappalyzer.gif)
 
 
-### 12.快速安全通道
+### 13.快速安全通道
 翻墙插件，既免费也有收费服务  
 [https://chrome.google.com/webstore/detail/faststunnel-vpn-unblack-s/bblcccknbdbplgmdjnnikffefhdlobhp](https://chrome.google.com/webstore/detail/faststunnel-vpn-unblack-s/bblcccknbdbplgmdjnnikffefhdlobhp)  
 
